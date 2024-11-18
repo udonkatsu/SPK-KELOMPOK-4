@@ -1,0 +1,3 @@
+db : cbjbimch_trendmoment
+use : cbjbimch_mike
+pwd : 6zwDPpQDYUUX
